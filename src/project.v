@@ -15,7 +15,7 @@
 parameter DISPLAY_WIDTH  = 640;  // Ancho de pantalla VGA
 parameter DISPLAY_HEIGHT = 480;  // Alto de pantalla VGA
 
-module tt_um_vga_example (
+module tt_um_SIRENE2904_FERRARIMONOPLAZA (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
