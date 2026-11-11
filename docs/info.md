@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+A car called monoplaza moves around the screen and bounces when it touches the limit. 
 
 ## How to test
 
-Explain how to use your project
+Let the program run, observe and enjoy!
 
 ## External hardware
 
